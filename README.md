@@ -1,5 +1,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/Yanossodroy/dashingJS/badge.svg?branch=master)](https://coveralls.io/github/Yanossodroy/dashingJS?branch=master)
 [![Build Status](https://travis-ci.org/Yanossodroy/dashingJS.svg?branch=master)](https://travis-ci.org/Yanossodroy/dashingJS)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4ba3a9e9bcc14a5f914ad61bbe04e5e4)](https://www.codacy.com/app/Yanossodroy/dashingJS?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Yanossodroy/dashingJS&amp;utm_campaign=Badge_Grade)                
+[![Known Vulnerabilities](https://snyk.io/test/github/yanossodroy/dashingjs/badge.svg?targetFile=package.json)](https://snyk.io/test/github/yanossodroy/dashingjs?targetFile=package.json)
 
 # DashingJS
 
